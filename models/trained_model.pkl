@@ -1,5 +1,5 @@
 import pickle
-
+ 
 # Save model
 with open("models/trained_model.pkl", "wb") as f:
     pickle.dump(my_model, f)
