@@ -1,0 +1,4 @@
+pygame==2.5.2        # For GUI and board rendering
+numpy==1.26.4        # For numerical operations in AI evaluation
+python-chess==1.999  # Chess logic, move validation, FEN/PGN support
+torch==2.2.2         # (Optional) For reinforcement learning models
