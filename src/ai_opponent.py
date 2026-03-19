@@ -1,6 +1,6 @@
 import chess
 import math
- 
+  
 class AIOpponent:
     def __init__(self, depth=3):
         self.depth = depth
