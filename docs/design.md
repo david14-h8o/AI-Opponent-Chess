@@ -1,5 +1,5 @@
 # AI Opponent Chess - Design Document
-
+ 
 ## Overview
 This project implements a chess game with an AI opponent.  
 The system is divided into four main parts:
